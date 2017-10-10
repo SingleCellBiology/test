@@ -1,0 +1,539 @@
+585	chr1	10019	10020	rs775809821	0	+	A	A	-/A	genomic	deletion	unknown	0	0	near-gene-5	exact	1		1	"SSMP,"	0				
+585	chr1	10055	10055	rs768019142	0	+	-	-	-/A	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"SSMP,"	0				
+585	chr1	10107	10108	rs62651026	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	10108	10109	rs376007522	0	+	A	A	A/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"BILGI_BIOE,WEILL_CORNELL_DGM,"	0				
+585	chr1	10128	10128	rs796688738	0	+	-	-	-/C	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	10138	10139	rs368469931	0	+	A	A	A/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"BILGI_BIOE,"	0				
+585	chr1	10144	10145	rs144773400	0	+	A	A	-/A	genomic	deletion	unknown	0	0	near-gene-5	exact	1		1	"BL,"	0				
+585	chr1	10146	10147	rs779258992	0	+	C	C	-/C	genomic	deletion	unknown	0	0	near-gene-5	exact	1		1	"SSMP,"	0				
+585	chr1	10149	10150	rs371194064	0	+	C	C	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"BILGI_BIOE,WEILL_CORNELL_DGM,"	0				
+585	chr1	10165	10165	rs796884232	0	+	-	-	-/C	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	10176	10177	rs201752861	0	+	A	A	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"GMI,"	0				
+585	chr1	10177	10177	rs367896724	0	+	-	-	-/C	genomic	insertion	"by-cluster,by-frequency,by-1000genomes"	0.488846	0.073843	near-gene-5	between	1		2	"1000GENOMES,BILGI_BIOE,"	2	"-,C,"	"2878.000000,2130.000000,"	"0.574681,0.425319,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	10179	10180	rs201694901	0	+	T	T	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"GMI,"	0				
+585	chr1	10228	10229	rs143255646	0	+	A	A	-/A	genomic	deletion	unknown	0	0	near-gene-5	exact	1	MixedObserved	1	"BL,"	0				
+585	chr1	10228	10255	rs200462216	0	+	AACCCCTAACCCTAACCCTAAACCCTA	AACCCCTAACCCTAACCCTAAACCCTA	-/AACCCCTAACCCTAACCCTAAACCCTA	genomic	deletion	unknown	0	0	near-gene-5	range	1	MixedObserved	1	"GMI,"	0				
+585	chr1	10230	10231	rs200279319	0	+	C	C	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1	MixedObserved	1	"GMI,"	0				
+585	chr1	10230	10231	rs775928745	0	+	C	C	-/C	genomic	deletion	unknown	0	0	near-gene-5	exact	1	MixedObserved	1	"SSMP,"	0				
+585	chr1	10233	10234	rs145599635	0	+	C	C	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"BL,WEILL_CORNELL_DGM,"	0				
+585	chr1	10235	10235	rs540431307	0	+	-	-	-/A	genomic	insertion	"by-frequency,by-1000genomes"	0.002393	0.03451	near-gene-5	between	1		1	"1000GENOMES,"	2	"-,A,"	"5002.000000,6.000000,"	"0.998802,0.001198,"	
+585	chr1	10246	10247	rs796996180	0	+	T	T	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"PADH-LAB_SPU,WEILL_CORNELL_DGM,"	0				
+585	chr1	10247	10248	rs148908337	0	+	A	A	A/T	genomic	single	unknown	0	0	near-gene-5	exact	1		2	"BL,GMI,"	0				
+585	chr1	10249	10250	rs199706086	0	+	A	A	A/C	genomic	single	by-cluster	0	0	near-gene-5	exact	1	MixedObserved	2	"GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	10249	10251	rs774211241	0	+	AC	AC	-/AC	genomic	deletion	unknown	0	0	near-gene-5	range	1	MixedObserved	1	"SSMP,"	0				
+585	chr1	10254	10255	rs140194106	0	+	A	A	-/A	genomic	deletion	unknown	0	0	near-gene-5	exact	1		1	"BL,"	0				
+585	chr1	10256	10257	rs111200574	0	+	A	A	A/C	genomic	single	unknown	0.5	0	near-gene-5	exact	1		1	"BUSHMAN,"	2	"A,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	10258	10259	rs200940095	0	+	C	C	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"GMI,"	0				
+585	chr1	10279	10280	rs868542496	0	+	A	A	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10284	10285	rs866375379	0	+	T	T	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10290	10291	rs145427775	0	+	C	C	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"BL,WEILL_CORNELL_DGM,"	0				
+585	chr1	10296	10297	rs868413313	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10301	10302	rs865871711	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10326	10327	rs112750067	0	+	T	T	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"BCM-HGSC-SUB,GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	10328	10352	rs201106462	0	+	ACCCCTAACCCTAACCCTAACCCT	ACCCCTAACCCTAACCCTAACCCT	-/ACCCCTAACCCTAACCCTAACCCT	genomic	deletion	unknown	0	0	near-gene-5	range	1		1	"GMI,"	0				
+585	chr1	10329	10330	rs150969722	0	+	C	C	-/C	genomic	deletion	by-cluster	0	0	near-gene-5	exact	1		2	"BL,SSMP,"	0				
+585	chr1	10332	10333	rs868804735	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10351	10352	rs866100747	0	+	T	T	A/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10352	10352	rs555500075	0	+	-	-	-/A	genomic	insertion	"by-cluster,by-frequency,by-1000genomes"	0.492188	0.06201	near-gene-5	between	1		2	"1000GENOMES,SSMP,"	2	"-,A,"	"2817.000000,2191.000000,"	"0.562500,0.437500,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	10353	10353	rs145072688	0	+	-	-	-/A	genomic	insertion	by-cluster	0	0	near-gene-5	between	1		2	"BL,GMI,"	0				
+585	chr1	10383	10383	rs147093981	0	+	-	-	-/C	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"BL,"	0				
+585	chr1	10389	10390	rs766767872	0	+	C	C	-/C	genomic	deletion	unknown	0	0	near-gene-5	exact	1		1	"SSMP,"	0				
+585	chr1	10433	10433	rs56289060	0	+	-	-	-/C	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"HGSV,"	0				
+585	chr1	10439	10440	rs112155239	0	+	C	C	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1	MixedObserved	1	"BCM-HGSC-SUB,"	0				
+585	chr1	10439	10440	rs112766696	0	+	C	C	-/C	genomic	deletion	by-cluster	0.5	0	near-gene-5	exact	1	MixedObserved	4	"BILGI_BIOE,BL,BUSHMAN,SSMP,"	2	"-,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	10458	10458	rs796546892	0	+	-	-	-/C	genomic	insertion	unknown	0	0	near-gene-5	between	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	10468	10469	rs370233998	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"SSMP,"	0				
+585	chr1	10477	10478	rs528916756	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"EVA-GONL,"	0				
+585	chr1	10482	10483	rs547662686	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"EVA-GONL,"	0				
+585	chr1	10489	10490	rs565971701	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"EVA-GONL,"	0				
+585	chr1	10491	10492	rs55998931	0	+	C	C	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"EVA-GONL,HGSV,WEILL_CORNELL_DGM,"	0				
+585	chr1	10492	10493	rs199606420	0	+	C	C	A/C/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1	SingleClassTriAllelic	2	"EVA-GONL,GMI,"	0				
+585	chr1	10504	10505	rs548419688	0	+	A	A	A/T	genomic	single	by-1000genomes	0.000399	0.014124	near-gene-5	exact	1		1	"1000GENOMES,"	2	"A,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	10505	10506	rs568405545	0	+	C	C	C/G	genomic	single	by-1000genomes	0.000399	0.014124	near-gene-5	exact	1		1	"1000GENOMES,"	2	"C,G,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	10510	10511	rs534229142	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	near-gene-5	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	10518	10519	rs62636508	0	+	G	G	C/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"BCMHGSC_JDW,EVA-GONL,"	0				
+585	chr1	10538	10539	rs537182016	0	+	C	C	A/C	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.001197	0.024439	near-gene-5	exact	1		2	"1000GENOMES,EVA-GONL,"	2	"A,C,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	10541	10542	rs572818783	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	near-gene-5	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	10565	10566	rs868145672	0	+	A	A	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10578	10579	rs538322974	0	+	C	C	A/C	genomic	single	by-1000genomes	0.000399	0.014124	near-gene-5	exact	1		1	"1000GENOMES,"	2	"A,C,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	10582	10583	rs58108140	0	+	G	G	A/G	genomic	single	"by-cluster,by-1000genomes"	0	0	near-gene-5	exact	1		7	"1000GENOMES,BL,DDI,EVA-GONL,HGSV,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	10602	10603	rs200782791	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"GMI,"	0				
+585	chr1	10610	10611	rs189107123	0	+	C	C	C/G	genomic	single	"by-cluster,by-1000genomes"	0	0	near-gene-5	exact	1		2	"1000GENOMES,WEILL_CORNELL_DGM,"	0				
+585	chr1	10616	10637	rs376342519	0	+	CGCCGTTGCAAAGGCGCGCCG	CGCCGTTGCAAAGGCGCGCCG	-/CGCCGTTGCAAAGGCGCGCCG	genomic	deletion	"by-cluster,by-frequency,by-1000genomes"	0.01388	0.082142	near-gene-5	range	1		3	"1000GENOMES,EVA_GENOME_DK,SSMP,"	2	"-,CGCCGTTGCAAAGGCGCGCCG,"	"4973.000000,35.000000,"	"0.993011,0.006989,"	
+585	chr1	10641	10642	rs558604819	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.008351	0.064078	near-gene-5	exact	1		1	"1000GENOMES,"	2	"A,G,"	"21.000000,4987.000000,"	"0.004193,0.995807,"	
+585	chr1	10663	10664	rs868575726	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10692	10693	rs867059168	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10800	10801	rs867415489	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10827	10828	rs10218492	0	+	G	G	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		1	"WUGSC_SSAHASNP,"	0				
+585	chr1	10883	10884	rs868423390	0	+	C	C	C/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10903	10904	rs10218493	0	+	G	G	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1	SingleAlleleFreq	1	"WUGSC_SSAHASNP,"	1	"G,"	"2.000000,"	"1.000000,"	
+585	chr1	10926	10927	rs10218527	0	+	A	A	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"WEILL_CORNELL_DGM,WUGSC_SSAHASNP,"	0				
+585	chr1	10930	10931	rs867393882	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10937	10938	rs28853987	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"SSAHASNP,"	0				
+585	chr1	10972	10973	rs866261808	0	+	T	T	A/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	10984	10985	rs866721506	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	11007	11008	rs575272151	0	+	C	C	C/G	genomic	single	"by-frequency,by-1000genomes"	0.160609	0.233472	near-gene-5	exact	1		1	"1000GENOMES,"	2	"C,G,"	"4567.000000,441.000000,"	"0.911941,0.088059,"	maf-5-some-pop
+585	chr1	11011	11012	rs544419019	0	+	C	C	C/G	genomic	single	"by-frequency,by-1000genomes"	0.160609	0.233472	near-gene-5	exact	1		1	"1000GENOMES,"	2	"C,G,"	"4567.000000,441.000000,"	"0.911941,0.088059,"	maf-5-some-pop
+585	chr1	11013	11014	rs28484712	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"SSAHASNP,"	0				
+585	chr1	11021	11022	rs28775022	0	+	G	G	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"BCM-HGSC-SUB,BCMHGSC_JDW,SSAHASNP,"	0				
+585	chr1	11062	11063	rs561109771	0	+	T	T	G/T	genomic	single	"by-frequency,by-1000genomes"	0.005972	0.054319	near-gene-5	exact	1		1	"1000GENOMES,"	2	"G,T,"	"15.000000,4993.000000,"	"0.002995,0.997005,"	
+585	chr1	11080	11081	rs10218495	0	+	G	G	G/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1	SingleAlleleFreq	1	"WUGSC_SSAHASNP,"	1	"G,"	"2.000000,"	"1.000000,"	
+585	chr1	11153	11154	rs62635278	0	+	A	A	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1	SingleAlleleFreq	2	"BCMHGSC_JDW,ENSEMBL,"	1	"C,"	"2.000000,"	"1.000000,"	
+585	chr1	11166	11167	rs62635279	0	+	C	C	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	11390	11391	rs75100478	0	+	T	T	A/T	genomic	single	by-cluster	0.5	0	near-gene-5	exact	1		2	"BCM-HGSC-SUB,ENSEMBL,"	2	"A,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	11408	11409	rs9803797	0	+	A	A	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"BCMHGSC_JDW,BCM_SSAHASNP,SSAHASNP,"	0				
+585	chr1	11456	11457	rs2758124	0	-	C	C	C/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"BCM-HGSC-SUB,SC_JCM,TSC-CSHL,"	0				
+585	chr1	11507	11508	rs3877545	0	-	A	A	C/T	genomic	single	by-cluster	0.375	0.216506	near-gene-5	exact	1		5	"BCM-HGSC-SUB,ENSEMBL,SC_JCM,TSC-CSHL,WI_SSAHASNP,"	2	"C,T,"	"3.000000,1.000000,"	"0.750000,0.250000,"	
+585	chr1	11546	11547	rs113872637	0	+	T	T	A/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	11564	11565	rs2691333	0	-	G	G	A/C	genomic	single	by-cluster	0	0	near-gene-5	exact	1	SingleAlleleFreq	5	"BCM-HGSC-SUB,BCMHGSC_JDW,ENSEMBL,SC_JCM,TSC-CSHL,"	1	"A,"	"4.000000,"	"1.000000,"	
+585	chr1	11862	11863	rs187669455	0	+	C	C	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"MPI_MOLGEN,"	0				
+585	chr1	12052	12053	rs111341249	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	12166	12167	rs112125468	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	12197	12198	rs62635282	0	+	G	G	C/G	genomic	single	by-cluster	0	0	ncRNA	exact	1		2	"BCM-HGSC-SUB,BCMHGSC_JDW,"	0				
+585	chr1	12213	12214	rs202068986	0	+	C	C	C/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"GMI,"	0				
+585	chr1	12382	12383	rs62635283	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	12383	12384	rs748328911	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	12782	12783	rs62635284	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1	SingleAlleleFreq	6	"BCM-HGSC-SUB,BCMHGSC_JDW,ENSEMBL,EVA_GENOME_DK,PADH-LAB_SPU,WEILL_CORNELL_DGM,"	1	"A,"	"8.000000,"	"1.000000,"	
+585	chr1	12806	12807	rs62635285	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		2	"BCMHGSC_JDW,EVA_GENOME_DK,"	0				
+585	chr1	12838	12839	rs747124606	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	12938	12942	rs756849893	0	+	CAAA	CAAA	-/CAAA	genomic	deletion	unknown	0	0	intron	range	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	13010	13011	rs574746232	0	+	T	T	G/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	intron	exact	1		1	"1000GENOMES,"	2	"G,T,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	13109	13110	rs540538026	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.052082	0.152737	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"134.000000,4874.000000,"	"0.026757,0.973243,"	maf-5-some-pop
+585	chr1	13115	13116	rs62635286	0	+	T	T	G/T	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.175254	0.238565	intron	exact	1		4	"1000GENOMES,BCMHGSC_JDW,ENSEMBL,GMI,"	2	"G,T,"	"486.000000,4522.000000,"	"0.097045,0.902955,"	maf-5-some-pop
+585	chr1	13117	13118	rs62028691	0	-	A	A	C/T	genomic	single	"by-cluster,by-1000genomes"	0.175254	0.238565	intron	exact	1		4	"1000GENOMES,BCMHGSC_JDW,ENSEMBL,GMI,"	2	"C,T,"	"486.000000,4522.000000,"	"0.097045,0.902955,"	
+585	chr1	13137	13138	rs12239753	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		2	"SC_SNP,SSAHASNP,"	0				
+585	chr1	13155	13156	rs552314247	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"C,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	13157	13158	rs12239425	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		3	"BCMHGSC_JDW,SC_SNP,SSAHASNP,"	0				
+585	chr1	13159	13160	rs12239277	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		2	"SC_SNP,SSAHASNP,"	0				
+585	chr1	13258	13259	rs562993331	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	ncRNA	exact	1		1	"1000GENOMES,"	2	"A,G,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	13272	13273	rs531730856	0	+	G	G	C/G	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.172028	0.23753	ncRNA	exact	1		4	"1000GENOMES,EVA_MGP,PADH-LAB_SPU,WEILL_CORNELL_DGM,"	2	"C,G,"	"476.000000,4532.000000,"	"0.095048,0.904952,"	maf-5-some-pop
+585	chr1	13283	13284	rs548333521	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.002792	0.037256	ncRNA	exact	1		1	"1000GENOMES,"	2	"A,G,"	"7.000000,5001.000000,"	"0.001398,0.998602,"	
+585	chr1	13288	13289	rs568318295	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5005.000000,3.000000,"	"0.999401,0.000599,"	
+585	chr1	13289	13291	rs538791886	0	+	CT	CT	-/CT	genomic	deletion	"by-cluster,by-frequency,by-1000genomes"	0.007955	0.062565	ncRNA	range	1		3	"1000GENOMES,EVA_DECODE,SSIP,"	2	"-,CT,"	"20.000000,4988.000000,"	"0.003994,0.996006,"	
+585	chr1	13301	13302	rs180734498	0	+	C	C	C/T	genomic	single	"by-cluster,by-1000genomes"	0	0	ncRNA	exact	1		3	"1000GENOMES,DDI,WEILL_CORNELL_DGM,"	0				
+585	chr1	13312	13313	rs527952245	0	+	T	T	G/T	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"G,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	13322	13323	rs749471528	0	+	C	C	A/C	genomic	single	unknown	0	0	ncRNA	exact	1		1	"EVA_MGP,"	0				
+585	chr1	13326	13327	rs2691329	0	-	G	G	C/G	genomic	single	by-1000genomes	0	0	ncRNA	exact	1		6	"1000GENOMES,BCMHGSC_JDW,SC_JCM,SSAHASNP,TSC-CSHL,WI_SSAHASNP,"	0				
+585	chr1	13364	13365	rs548087592	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	13371	13372	rs752859895	0	+	G	G	C/G	genomic	single	by-frequency	0.000474	0.015392	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"2.000000,8430.000000,"	"0.000237,0.999763,"	
+585	chr1	13379	13380	rs571093408	0	+	C	C	C/G	genomic	single	"by-frequency,by-1000genomes"	0.006623	0.057165	ncRNA	exact	1		3	"1000GENOMES,EVA_EXAC,EVA_MGP,"	2	"C,G,"	"11866.000000,64.000000,"	"0.994635,0.005365,"	
+585	chr1	13381	13382	rs538606945	0	+	C	C	C/G	genomic	single	by-1000genomes	0.000349	0.013207	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"C,G,"	"10734.000000,2.000000,"	"0.999814,0.000186,"	
+585	chr1	13399	13400	rs4951866	0	+	T	T	G/T	genomic	single	unknown	0	0	ncRNA	exact	1		4	"BCMHGSC_JDW,SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13401	13402	rs761953331	0	+	G	G	C/G	genomic	single	by-frequency	0.000216	0.01038	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"2.000000,18550.000000,"	"0.000108,0.999892,"	
+585	chr1	13403	13404	rs767918456	0	+	G	G	A/G/T	genomic	single	by-frequency	0.001444	0.026832	ncRNA	exact	1	"SingleClassTriAllelic,InconsistentAlleles"	1	"EVA_EXAC,"	2	"G,T,"	"1383.000000,1.000000,"	"0.999277,0.000723,"	
+585	chr1	13417	13418	rs759389692	0	+	G	G	A/G	genomic	single	by-frequency	0.000415	0.014392	ncRNA	exact	1	MixedObserved	1	"EVA_EXAC,"	2	"A,G,"	"4.000000,19288.000000,"	"0.000207,0.999793,"	
+585	chr1	13417	13417	rs777038595	0	+	-	-	-/GAGA	genomic	insertion	"by-cluster,by-frequency"	0.287796	0.247126	ncRNA	between	1	MixedObserved	3	"EVA_EXAC,EVA_GENOME_DK,PADH-LAB_SPU,"	2	"-,GAGA,"	"1014.000000,214.000000,"	"0.825733,0.174267,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	13423	13424	rs4951867	0	+	A	A	A/G	genomic	single	by-cluster	0	0	ncRNA	exact	1		4	"BCMHGSC_JDW,SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13425	13426	rs764877909	0	+	A	A	A/G	genomic	single	by-frequency	0.000142	0.008417	ncRNA	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"28218.000000,2.000000,"	"0.999929,0.000071,"	
+585	chr1	13437	13438	rs752714652	0	+	C	C	A/C	genomic	single	unknown	0.000454	0.015064	ncRNA	exact	1		1	"EVA_EXAC,"	2	"A,C,"	"1.000000,4401.000000,"	"0.000227,0.999773,"	
+585	chr1	13444	13445	rs558318514	0	+	C	C	C/G	genomic	single	"by-frequency,by-1000genomes"	0.002013	0.031658	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"C,G,"	"12939.000000,11.000000,"	"0.999151,0.000849,"	
+585	chr1	13447	13448	rs763999927	0	+	C	C	C/T	genomic	single	by-frequency	0.000223	0.010551	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"8977.000000,1.000000,"	"0.999889,0.000111,"	
+585	chr1	13451	13452	rs751132475	0	+	G	G	C/G	genomic	single	by-frequency	0.001007	0.02242	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"5.000000,9917.000000,"	"0.000504,0.999496,"	
+585	chr1	13452	13453	rs568927457	0	+	T	T	C/T	genomic	single	"by-frequency,by-1000genomes"	0.001596	0.028205	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"C,T,"	"4.000000,5004.000000,"	"0.000799,0.999201,"	
+585	chr1	13481	13482	rs537951473	0	+	G	G	C/G	genomic	single	"by-frequency,by-1000genomes"	0.000341	0.013049	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"C,G,"	"4.000000,16740.000000,"	"0.000239,0.999761,"	
+585	chr1	13482	13483	rs554760071	0	+	G	G	C/G	genomic	single	"by-frequency,by-1000genomes"	0.000341	0.013047	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"C,G,"	"12.000000,16736.000000,"	"0.000717,0.999283,"	
+585	chr1	13485	13487	rs780379327	0	+	GC	GC	-/GC	genomic	deletion	unknown	0.000023	0.003358	ncRNA	range	1		1	"EVA_EXAC,"	2	"-,GC,"	"1.000000,88671.000000,"	"0.000011,0.999989,"	
+585	chr1	13493	13494	rs574697788	0	+	A	A	A/G	genomic	single	"by-frequency,by-1000genomes"	0.009179	0.067123	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"A,G,"	"16874.000000,62.000000,"	"0.996339,0.003661,"	
+585	chr1	13500	13501	rs780232535	0	+	G	G	A/G	genomic	single	by-frequency	0.000504	0.015865	ncRNA	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"3.000000,11901.000000,"	"0.000252,0.999748,"	
+585	chr1	13503	13504	rs199896944	0	+	G	G	A/G	genomic	single	by-frequency	0.003881	0.043879	ncRNA	exact	1		2	"EVA_EXAC,GMI,"	2	"A,G,"	"23.000000,11807.000000,"	"0.001944,0.998056,"	
+585	chr1	13507	13508	rs4951868	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13519	13520	rs769328304	0	+	G	G	C/G	genomic	single	by-frequency	0.000715	0.018888	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"4.000000,11188.000000,"	"0.000357,0.999643,"	
+585	chr1	13524	13525	rs779558741	0	+	G	G	G/T	genomic	single	by-frequency	0.004032	0.04472	ncRNA	exact	1		1	"EVA_EXAC,"	2	"G,T,"	"10868.000000,22.000000,"	"0.997980,0.002020,"	
+585	chr1	13527	13528	rs748298247	0	+	C	C	C/G/T	genomic	single	by-frequency	0.004213	0.045741	ncRNA	exact	1	SingleClassTriAllelic	1	"EVA_EXAC,"	3	"C,G,T,"	"10404.000000,13.000000,9.000000,"	"0.997890,0.001247,0.000863,"	
+585	chr1	13528	13529	rs773491071	0	+	G	G	A/G	genomic	single	by-frequency	0.000392	0.013996	ncRNA	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"2.000000,10198.000000,"	"0.000196,0.999804,"	
+585	chr1	13536	13537	rs760770747	0	+	C	C	C/T	genomic	single	by-frequency	0.004301	0.046174	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"2778.000000,6.000000,"	"0.997845,0.002155,"	
+585	chr1	13537	13538	rs769656679	0	+	G	G	A/G	genomic	single	unknown	0.000718	0.018935	ncRNA	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"1.000000,2783.000000,"	"0.000359,0.999641,"	
+585	chr1	13538	13539	rs775200581	0	+	G	G	C/G	genomic	single	by-frequency	0.007926	0.062451	ncRNA	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"6.000000,1502.000000,"	"0.003979,0.996021,"	
+585	chr1	13542	13543	rs540466151	0	+	T	T	G/T	genomic	single	"by-frequency,by-1000genomes"	0.002018	0.031702	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"G,T,"	"4.000000,5994.000000,"	"0.000667,0.999333,"	
+585	chr1	13549	13550	rs554008981	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.030296	0.11929	ncRNA	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"A,G,"	"23.000000,5375.000000,"	"0.004261,0.995739,"	
+585	chr1	13666	13667	rs7536480	0	+	C	C	C/T	genomic	single	"by-cluster,by-2hit-2allele"	0	0	ncRNA	exact	1		2	"SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13683	13684	rs71260404	0	-	C	C	A/G	genomic	single	unknown	0.5	0	ncRNA	exact	1		1	"HUMANGENOME_JCVI,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	13751	13752	rs796817765	0	+	T	T	C/T	genomic	single	unknown	0	0	ncRNA	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	13798	13799	rs7523129	0	+	T	T	G/T	genomic	single	"by-cluster,by-2hit-2allele"	0	0	ncRNA	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13805	13806	rs113004249	0	+	G	G	C/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	13837	13838	rs28428499	0	+	C	C	C/T	genomic	single	unknown	0	0	ncRNA	exact	1		3	"BCMHGSC_JDW,GMI,SSAHASNP,"	0				
+585	chr1	13867	13868	rs796086906	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,ncRNA"	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	13895	13896	rs201696125	0	+	C	C	A/C	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		2	"EVA_GENOME_DK,GMI,"	0				
+585	chr1	13911	13912	rs2691324	0	-	G	G	C/T	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		5	"BCM_SSAHASNP,SC_JCM,SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13934	13935	rs7536681	0	+	C	C	A/C	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13945	13946	rs7544137	0	+	G	G	A/G	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13957	13958	rs201747181	0	+	C	C	-/C	genomic	deletion	by-1000genomes	0	0	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	0				
+585	chr1	13971	13972	rs7536753	0	+	C	C	A/C	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	13979	13980	rs2592732	0	-	T	T	A/G	genomic	single	"by-cluster,by-1000genomes"	0	0	"near-gene-3,ncRNA"	exact	1	SingleAlleleFreq	8	"1000GENOMES,BCMHGSC_JDW,ENSEMBL,EVA-GONL,SC_JCM,SSAHASNP,TSC-CSHL,WI_SSAHASNP,"	1	"G,"	"2.000000,"	"1.000000,"	
+585	chr1	14397	14400	rs756427959	0	+	TGT	TGT	-/TGT	genomic	deletion	by-cluster	0	0	ncRNA	range	1		2	"EVA_GENOME_DK,SSMP,"	0				
+585	chr1	14435	14436	rs28507908	0	+	G	G	A/G	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		1	"SSAHASNP,"	0				
+585	chr1	14461	14462	rs577106641	0	+	A	A	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	14463	14464	rs546169444	0	+	A	A	A/T	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.17332	0.23795	"near-gene-3,ncRNA"	exact	1		2	"1000GENOMES,WEILL_CORNELL_DGM,"	2	"A,T,"	"4528.000000,480.000000,"	"0.904153,0.095847,"	maf-5-some-pop
+585	chr1	14511	14513	rs759412784	0	+	AG	AG	-/AG	genomic	deletion	unknown	0	0	"near-gene-3,ncRNA"	range	1		1	"SSMP,"	0				
+585	chr1	14541	14542	rs1045833	0	-	A	A	C/T	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		4	"LEE,SC_SNP,SSAHASNP,TSC-CSHL,"	0				
+585	chr1	14563	14564	rs562748080	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	14566	14567	rs200045244	0	+	G	G	G/T	genomic	single	unknown	0.01094	0.073144	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"G,T,"	"173.042999,0.957000,"	"0.994500,0.005500,"	
+585	chr1	14573	14574	rs28503599	0	+	A	A	A/G	genomic	single	by-frequency	0.46875	0.121031	"near-gene-3,ncRNA"	exact	1		2	"ENSEMBL,SSAHASNP,"	2	"A,G,"	"5.000000,3.000000,"	"0.625000,0.375000,"	
+585	chr1	14598	14599	rs531646671	0	+	T	T	A/T	genomic	single	"by-frequency,by-1000genomes"	0.251578	0.249995	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,T,"	"739.000000,4269.000000,"	"0.147564,0.852436,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	14603	14604	rs541940975	0	+	A	A	A/G	genomic	single	"by-frequency,by-1000genomes"	0.251578	0.249995	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"4269.000000,739.000000,"	"0.852436,0.147564,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	14635	14636	rs6671473	0	+	T	T	C/T	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		2	"BCM_SSAHASNP,SSAHASNP,"	0				
+585	chr1	14652	14653	rs62635297	0	+	C	C	C/T	genomic	single	by-cluster	0	0	"near-gene-3,ncRNA"	exact	1		2	"BCMHGSC_JDW,SSMP,"	0				
+585	chr1	14670	14671	rs201055865	0	+	G	G	C/G	genomic	single	"by-cluster,by-frequency"	0.01094	0.073144	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	2	"CLINSEQ_SNP,WEILL_CORNELL_DGM,"	2	"C,G,"	"3.036000,548.963989,"	"0.005500,0.994500,"	
+585	chr1	14672	14673	rs4690	0	+	G	G	C/G	genomic	single	"by-cluster,by-frequency,by-hapmap"	0.450727	0.149026	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	13	"BCM_SSAHASNP,CGAP-GAI,CSHL-HAPMAP,ENSEMBL,GMI,HUMANGENOME_JCVI,LEE,PADH-LAB_SPU,SC_JCM,SSAHASNP,SSMP,TSC-CSHL,UWGC,"	2	"C,G,"	"134.020004,69.980003,"	"0.656961,0.343039,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	14673	14674	rs561913721	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	14676	14677	rs201327123	0	+	G	G	A/G	genomic	single	by-frequency	0.085039	0.187851	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"17.978001,386.022003,"	"0.044500,0.955500,"	
+585	chr1	14698	14699	rs62635298	0	+	C	C	C/G	genomic	single	"by-cluster,by-frequency"	0.375	0.216506	"near-gene-3,ncRNA"	exact	1		5	"BCMHGSC_JDW,ENSEMBL,PADH-LAB_SPU,SSMP,WEILL_CORNELL_DGM,"	2	"C,G,"	"2.000000,6.000000,"	"0.250000,0.750000,"	
+585	chr1	14710	14711	rs868589190	0	+	G	G	A/G	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	14715	14716	rs199921890	0	+	C	C	C/T	genomic	single	unknown	0.003992	0.044497	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"C,T,"	"538.919983,1.080000,"	"0.998000,0.002000,"	
+585	chr1	14716	14717	rs377122907	0	+	G	G	A/G	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		1	"SSMP,"	0				
+585	chr1	14718	14719	rs527865771	0	+	C	C	A/C	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,C,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	14726	14727	rs1045587	0	-	G	G	C/T	genomic	single	"by-cluster,by-hapmap"	0	0	"near-gene-3,ncRNA"	exact	1		6	"CSHL-HAPMAP,LEE,MGC_GENOME_DIFF,SEQUENOM,SSAHASNP,TSC-CSHL,"	0				
+585	chr1	14727	14728	rs547701710	0	+	C	C	A/C	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,C,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	14746	14747	rs865872669	0	+	C	C	C/T	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	14774	14775	rs571121669	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	14775	14776	rs201013861	0	+	G	G	A/G	genomic	single	unknown	0.004988	0.049688	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"0.990000,395.010010,"	"0.002500,0.997500,"	
+585	chr1	14859	14860	rs533499096	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"intron,near-gene-3"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	14873	14874	rs552113149	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000399	0.014124	"intron,near-gene-3"	exact	1		1	"1000GENOMES,"	2	"C,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	14888	14889	rs11804393	0	+	G	G	A/G	genomic	single	"by-cluster,by-2hit-2allele,by-hapmap"	0	0	"intron,near-gene-3"	exact	1		4	"BCMHGSC_JDW,BL,CSHL-HAPMAP,SSAHASNP,"	0				
+585	chr1	14895	14896	rs779143624	0	+	T	T	C/T	genomic	single	unknown	0	0	"intron,near-gene-3"	exact	1		1	"EVA_MGP,"	0				
+585	chr1	14906	14907	rs6682375	0	+	A	A	A/G	genomic	single	"by-cluster,by-2hit-2allele,by-hapmap"	0.5	0	"intron,near-gene-3"	exact	1		10	"BCMHGSC_JDW,BCM_SSAHASNP,CSHL-HAPMAP,DDI,ENSEMBL,EVA_MGP,GMI,HUMANGENOME_JCVI,SSAHASNP,SSMP,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	14929	14930	rs6682385	0	+	A	A	A/G	genomic	single	"by-cluster,by-2hit-2allele,by-hapmap,by-1000genomes"	0.499368	0.01776	intron	exact	1		14	"1000GENOMES,BCM-HGSC-SUB,BCMHGSC_JDW,BCM_SSAHASNP,BGI,CSHL-HAPMAP,DDI,ENSEMBL,EVA_MGP,GMI,HUMANGENOME_JCVI,SC_JCM,SSAHASNP,SSMP,"	2	"A,G,"	"2593.000000,2415.000000,"	"0.517772,0.482228,"	
+585	chr1	14932	14933	rs199856693	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.055101	0.156571	intron	exact	1		7	"1000GENOMES,BILGI_BIOE,DDI,EVA_MGP,GMI,SSMP,WEILL_CORNELL_DGM,"	2	"A,G,"	"142.000000,4866.000000,"	"0.028355,0.971645,"	maf-5-some-pop
+585	chr1	14936	14937	rs11807796	0	+	T	T	C/T	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		4	"BCMHGSC_JDW,CSHL-HAPMAP,ENSEMBL,SSAHASNP,"	0				
+585	chr1	14947	14948	rs201855936	0	+	G	G	A/G	genomic	single	by-frequency	0.01882	0.095161	intron	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"5.035000,524.965027,"	"0.009500,0.990500,"	
+585	chr1	14952	14953	rs796475270	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	14974	14975	rs11803341	0	+	C	C	C/T	genomic	single	"by-cluster,by-hapmap,by-1000genomes"	0.001197	0.024439	ncRNA	exact	1		3	"1000GENOMES,CSHL-HAPMAP,SSAHASNP,"	2	"C,T,"	"5005.000000,3.000000,"	"0.999401,0.000599,"	
+585	chr1	14975	14976	rs71252251	0	-	G	G	C/T	genomic	single	"by-cluster,by-frequency"	0.090864	0.19281	ncRNA	exact	1	NonIntegerChromCount	6	"CLINSEQ_SNP,DDI,EVA_MGP,HUMANGENOME_JCVI,SSMP,WEILL_CORNELL_DGM,"	2	"C,T,"	"319.970001,16.030001,"	"0.952292,0.047708,"	
+585	chr1	15028	15029	rs201045431	0	+	G	G	A/G	genomic	single	by-frequency	0.007968	0.062614	ncRNA	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"2.096000,521.903992,"	"0.004000,0.996000,"	
+585	chr1	15030	15031	rs568188357	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.001596	0.028205	ncRNA	exact	1		1	"1000GENOMES,"	2	"A,G,"	"4.000000,5004.000000,"	"0.000799,0.999201,"	
+585	chr1	15061	15061	rs71268703	0	-	-	-	-/C	genomic	insertion	unknown	0.5	0	intron	between	1		1	"HUMANGENOME_JCVI,"	2	"-,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	15083	15084	rs111938836	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	15088	15089	rs533985096	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	15093	15094	rs11491118	0	-	A	A	C/T	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		3	"CSHL-HAPMAP,SC_SNP,SSAHASNP,"	0				
+585	chr1	15116	15117	rs553722146	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	15117	15118	rs11580262	0	+	A	A	A/G	genomic	single	"by-cluster,by-frequency,by-hapmap"	0.48	0.09798	intron	exact	1		7	"BCMHGSC_JDW,CSHL-HAPMAP,ENSEMBL,GMI,HUMANGENOME_JCVI,SSMP,WEILL_CORNELL_DGM,"	2	"A,G,"	"6.000000,4.000000,"	"0.600000,0.400000,"	
+585	chr1	15149	15150	rs11803681	0	+	C	C	C/T	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		2	"CSHL-HAPMAP,SSAHASNP,"	0				
+585	chr1	15178	15179	rs577026159	0	+	G	G	G/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"G,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	15188	15209	rs768510816	0	+	CGGGCACTGATGAGACAGCGG	CGGGCACTGATGAGACAGCGG	-/CGGGCACTGATGAGACAGCGG	genomic	deletion	unknown	0	0	intron	range	1	MixedObserved	1	"EVA_GENOME_DK,"	0				
+585	chr1	15188	15189	rs867804129	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1	MixedObserved	1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	15189	15190	rs200030104	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	15203	15204	rs11491104	0	-	C	C	G/T	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		4	"BCM-HGSC-SUB,CSHL-HAPMAP,SC_SNP,SSAHASNP,"	0				
+585	chr1	15207	15208	rs368345873	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	15210	15211	rs11586607	0	+	T	T	G/T	genomic	single	"by-cluster,by-hapmap,by-1000genomes"	0.476227	0.106402	intron	exact	1		12	"1000GENOMES,BCM-HGSC-SUB,BCMHGSC_JDW,BL,CSHL-HAPMAP,DDI,ENSEMBL,EVA_GENOME_DK,EVA_MGP,GMI,SSAHASNP,SSMP,"	2	"G,T,"	"3050.000000,1958.000000,"	"0.609026,0.390974,"	
+585	chr1	15219	15230	rs750100399	0	+	AGCCACCTCCC	AGCCACCTCCC	-/AGCCACCTCCC	genomic	deletion	unknown	0	0	intron	range	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	15240	15241	rs556492625	0	+	G	G	G/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	intron	exact	1		1	"1000GENOMES,"	2	"G,T,"	"5005.000000,3.000000,"	"0.999401,0.000599,"	
+585	chr1	15244	15245	rs576044687	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.008351	0.064078	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"4987.000000,21.000000,"	"0.995807,0.004193,"	
+585	chr1	15254	15255	rs541857151	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"C,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15259	15260	rs561825427	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	15273	15274	rs62636497	0	+	A	A	A/G/T	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.468434	0.150509	intron	exact	1	SingleClassTriAllelic	6	"1000GENOMES,BCMHGSC_JDW,BILGI_BIOE,DDI,ENSEMBL,GMI,"	3	"A,G,T,"	"59.000000,1739.000000,3210.000000,"	"0.011781,0.347244,0.640974,"	
+585	chr1	15417	15418	rs564536632	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15446	15447	rs201635489	0	+	A	A	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	15584	15585	rs533630043	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.001995	0.031519	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"5.000000,5003.000000,"	"0.000998,0.999002,"	
+585	chr1	15598	15599	rs868389710	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	15615	15616	rs866988825	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	15626	15627	rs550231014	0	+	T	T	C/T	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15643	15644	rs564003018	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.01624	0.088635	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"41.000000,4967.000000,"	"0.008187,0.991813,"	
+585	chr1	15710	15711	rs202113635	0	+	G	G	A/G	genomic	single	by-frequency	0.053488	0.154541	intron	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"3.025000,106.974998,"	"0.027500,0.972500,"	
+585	chr1	15769	15770	rs867439113	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	15773	15774	rs374029747	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.023675	0.106192	intron	exact	1		2	"1000GENOMES,SSMP,"	2	"A,G,"	"60.000000,4948.000000,"	"0.011981,0.988019,"	
+585	chr1	15775	15776	rs548251696	0	+	A	A	A/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"A,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	15776	15777	rs568149713	0	+	A	A	A/G	genomic	single	"by-frequency,by-1000genomes"	0.055101	0.156571	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"4866.000000,142.000000,"	"0.971645,0.028355,"	maf-5-some-pop
+585	chr1	15789	15790	rs533659262	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.00319	0.039809	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"8.000000,5000.000000,"	"0.001597,0.998403,"	
+585	chr1	15790	15791	rs547522712	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	15816	15817	rs2691316	0	-	G	G	A/C	genomic	single	by-cluster	0.5	0	ncRNA	exact	1		4	"BCMHGSC_JDW,ENSEMBL,SC_JCM,SSMP,"	2	"A,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	15819	15820	rs2691315	0	-	G	G	A/C	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.483995	0.088013	ncRNA	exact	1		5	"1000GENOMES,BCMHGSC_JDW,CLINSEQ_SNP,SC_JCM,SSMP,"	2	"A,C,"	"2056.000000,2952.000000,"	"0.410543,0.589457,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	15832	15833	rs539683926	0	+	T	T	C/T	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15848	15849	rs556025965	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5005.000000,3.000000,"	"0.999401,0.000599,"	
+585	chr1	15849	15850	rs575961614	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	ncRNA	exact	1		1	"1000GENOMES,"	2	"A,G,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	15885	15886	rs535454006	0	+	T	T	C/T	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15892	15893	rs555382915	0	+	T	T	C/T	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"C,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	15903	15903	rs557514207	0	+	-	-	-/C	genomic	insertion	"by-cluster,by-frequency,by-1000genomes"	0.49306	0.058496	ncRNA	between	1		4	"1000GENOMES,PADH-LAB_SPU,SSIP,SSMP,"	2	"-,C,"	"2799.000000,2209.000000,"	"0.558906,0.441094,"	maf-5-some-pop
+585	chr1	15905	15906	rs866382231	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	15921	15922	rs375964566	0	+	A	A	A/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"SSMP,"	0				
+585	chr1	15955	15956	rs112448831	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		3	"BCM-HGSC-SUB,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	16013	16014	rs113442401	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"BCM-HGSC-SUB,WEILL_CORNELL_DGM,"	0				
+585	chr1	16041	16042	rs572465511	0	+	G	G	C/G	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,G,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	16067	16068	rs372319358	0	+	T	T	C/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	16070	16071	rs541172944	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.005178	0.050619	intron	exact	1		2	"1000GENOMES,WEILL_CORNELL_DGM,"	2	"A,G,"	"13.000000,4995.000000,"	"0.002596,0.997404,"	
+585	chr1	16090	16091	rs564675576	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	16102	16103	rs200358166	0	+	T	T	G/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"GMI,SSMP,"	0				
+585	chr1	16108	16109	rs578123551	0	+	C	C	A/C	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"A,C,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	16124	16125	rs201026389	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	"GMI,"	0				
+585	chr1	16126	16127	rs544021564	0	+	C	C	A/C	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	intron	exact	1		1	"1000GENOMES,"	2	"A,C,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	16139	16140	rs563966321	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	16140	16141	rs529651976	0	+	C	C	C/T	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.005178	0.050619	intron	exact	1		2	"1000GENOMES,WEILL_CORNELL_DGM,"	2	"C,T,"	"4995.000000,13.000000,"	"0.997404,0.002596,"	
+585	chr1	16141	16142	rs548165136	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.007163	0.059414	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"18.000000,4990.000000,"	"0.003594,0.996406,"	
+585	chr1	16226	16227	rs755466349	0	+	G	G	-/G	genomic	deletion	unknown	0	0	intron	exact	1		1	"EVA_DECODE,"	0				
+585	chr1	16256	16257	rs11489794	0	+	G	G	C/G	genomic	single	by-cluster	0.5	0	intron	exact	1		5	"BUSHMAN,ENSEMBL,GMI,SC_SNP,WEILL_CORNELL_DGM,"	2	"C,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	16279	16280	rs866639523	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	16287	16288	rs113141985	0	+	C	C	C/G	genomic	single	by-cluster	0	0	intron	exact	1		3	"BCM-HGSC-SUB,GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	16297	16298	rs62636498	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		4	"BCMHGSC_JDW,EVA-GONL,GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	16364	16365	rs561670553	0	+	G	G	C/G	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,G,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	16377	16378	rs148220436	0	+	T	T	C/T	genomic	single	by-cluster	0	0	intron	exact	1		6	"BL,DDI,EXOME_CHIP,GMI,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	16484	16485	rs527352437	0	+	T	T	C/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	16486	16487	rs373516660	0	+	T	T	C/T	genomic	single	by-cluster	0	0	intron	exact	1		3	"EVA_MGP,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	16488	16489	rs547190368	0	+	T	T	A/T	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"A,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	16494	16495	rs141130360	0	+	G	G	C/G	genomic	single	by-cluster	0	0	intron	exact	1		4	"BL,EVA_MGP,GMI,WEILL_CORNELL_DGM,"	0				
+585	chr1	16496	16497	rs150723783	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		3	"BL,EVA_MGP,GMI,"	0				
+585	chr1	16514	16515	rs570562170	0	+	A	A	A/C	genomic	single	"by-frequency,by-1000genomes"	0.001995	0.031519	intron	exact	1		1	"1000GENOMES,"	2	"A,C,"	"5003.000000,5.000000,"	"0.999002,0.000998,"	
+585	chr1	16533	16534	rs15642	0	+	C	C	C/T	genomic	single	"by-cluster,by-frequency,by-hapmap"	0.495868	0.045266	intron	exact	1		9	"BCMHGSC_JDW,BILGI_BIOE,CGAP-GAI,CSHL-HAPMAP,ENSEMBL,GMI,HUMANGENOME_JCVI,SEQUENOM,SSAHASNP,"	2	"C,T,"	"10.000000,12.000000,"	"0.454545,0.545455,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	16541	16542	rs539235482	0	+	C	C	A/C	genomic	single	"by-frequency,by-1000genomes"	0.002393	0.03451	intron	exact	1		1	"1000GENOMES,"	2	"A,C,"	"6.000000,5002.000000,"	"0.001198,0.998802,"	
+585	chr1	16570	16571	rs12405900	0	+	G	G	A/G	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		6	"BCM-HGSC-SUB,BCMHGSC_JDW,CSHL-HAPMAP,GMI,SSAHASNP,WEILL_CORNELL_DGM,"	0				
+585	chr1	16591	16592	rs12404668	0	+	A	A	A/C	genomic	single	"by-cluster,by-hapmap"	0	0	intron	exact	1		2	"CSHL-HAPMAP,SSAHASNP,"	0				
+585	chr1	16618	16619	rs3210723	0	-	C	C	A/G	genomic	single	"by-cluster,by-frequency"	0.5	0	ncRNA	exact	1		7	"BCMHGSC_JDW,ENSEMBL,HUMANGENOME_JCVI,LEE,MGC_GENOME_DIFF,SC_SNP,WI_SSAHASNP,"	2	"A,G,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	16681	16682	rs12405913	0	+	G	G	A/G	genomic	single	"by-cluster,by-hapmap"	0	0	ncRNA	exact	1		2	"CSHL-HAPMAP,SSAHASNP,"	0				
+585	chr1	16687	16688	rs868272296	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	16718	16719	rs62636367	0	+	T	T	A/T	genomic	single	by-cluster	0	0	ncRNA	exact	1		2	"BCMHGSC_JDW,PADH-LAB_SPU,"	0				
+585	chr1	16737	16738	rs549612027	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	ncRNA	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	16791	16792	rs201330479	0	+	G	G	A/G	genomic	single	unknown	0.002996	0.038585	intron	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,G,"	"0.876000,583.124023,"	"0.001500,0.998500,"	
+585	chr1	16806	16807	rs2974805	0	+	G	G	C/G	genomic	single	"by-cluster,by-submitter"	0.5	0	intron	exact	1		5	"BCMHGSC_JDW,HUMANGENOME_JCVI,SC_JCM,SC_SNP,TSC-CSHL,"	2	"C,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	16808	16809	rs2758113	0	+	C	C	C/G	genomic	single	"by-cluster,by-frequency"	0.48	0.09798	intron	exact	1		4	"ENSEMBL,HUMANGENOME_JCVI,SC_JCM,SC_SNP,"	2	"C,G,"	"6.000000,4.000000,"	"0.600000,0.400000,"	
+585	chr1	16822	16823	rs760093957	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	16824	16825	rs774196730	0	+	C	C	A/C	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_MGP,"	0				
+585	chr1	16833	16834	rs569606814	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	16840	16841	rs62636368	0	+	G	G	G/T	genomic	single	"by-cluster,by-frequency"	0.051963	0.152582	intron	exact	1		4	"BCMHGSC_JDW,BILGI_BIOE,CLINSEQ_SNP,EVA_MGP,"	2	"G,T,"	"474.000000,13.000000,"	"0.973306,0.026694,"	
+585	chr1	16855	16856	rs3891260	0	+	A	A	A/G	genomic	single	by-cluster	0.5	0	splice-5	exact	1		7	"BCMHGSC_JDW,CLINSEQ_SNP,EVA_MGP,HUMANGENOME_JCVI,SC_JCM,SC_SNP,TSC-CSHL,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	16879	16880	rs9651249	0	+	G	G	A/G	genomic	single	unknown	0	0	"near-gene-3,ncRNA"	exact	1		1	"SC_SNP,"	0				
+585	chr1	16911	16912	rs533210981	0	+	A	A	-/A	genomic	deletion	"by-frequency,by-1000genomes"	0.001197	0.024439	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"-,A,"	"3.000000,5005.000000,"	"0.000599,0.999401,"	
+585	chr1	16945	16946	rs201563295	0	+	G	G	G/T	genomic	single	by-frequency	0.00995	0.069828	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"G,T,"	"401.980011,2.020000,"	"0.995000,0.005000,"	
+585	chr1	16948	16949	rs199745162	0	+	A	A	A/C	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.027565	0.114116	"near-gene-3,ncRNA"	exact	1		2	"1000GENOMES,CLINSEQ_SNP,"	2	"A,C,"	"4938.000000,70.000000,"	"0.986022,0.013978,"	maf-5-some-pop
+585	chr1	16956	16957	rs200658479	0	+	G	G	G/T	genomic	single	by-frequency	0.024687	0.108325	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"G,T,"	"321.924988,4.075000,"	"0.987500,0.012500,"	
+585	chr1	17004	17005	rs201833382	0	+	A	A	A/G	genomic	single	unknown	0.003992	0.044498	"near-gene-3,ncRNA"	exact	1		1	"CLINSEQ_SNP,"	2	"A,G,"	"495.007996,0.992000,"	"0.998000,0.002000,"	
+585	chr1	17019	17020	rs199740902	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency"	0.199688	0.244885	"near-gene-3,ncRNA"	exact	1	NonIntegerChromCount	2	"CLINSEQ_SNP,WEILL_CORNELL_DGM,"	2	"A,G,"	"31.950001,252.050003,"	"0.112500,0.887500,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	17146	17147	rs867691030	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-3"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17171	17172	rs9651250	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-3"	exact	1		1	"SC_SNP,"	0				
+585	chr1	17200	17201	rs111926577	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-3"	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	17221	17222	rs200978805	0	+	A	A	A/G	genomic	single	"by-cluster,by-frequency"	0.025662	0.110329	"intron,near-gene-3"	exact	1	NonIntegerChromCount	2	"CLINSEQ_SNP,SSMP,"	2	"A,G,"	"298.074005,3.926000,"	"0.987000,0.013000,"	
+585	chr1	17271	17272	rs555297131	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	17343	17344	rs751438662	0	+	G	G	A/G	genomic	single	unknown	0.000322	0.012677	"near-gene-3,ncRNA"	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"1.000000,6217.000000,"	"0.000161,0.999839,"	
+585	chr1	17352	17353	rs761314056	0	+	G	G	C/G	genomic	single	unknown	0.00032	0.012652	"near-gene-3,ncRNA"	exact	1		1	"EVA_EXAC,"	2	"C,G,"	"1.000000,6241.000000,"	"0.000160,0.999840,"	
+585	chr1	17358	17361	rs749387668	0	+	CTT	CTT	-/CTT	genomic	deletion	by-frequency	0.032458	0.123188	"near-gene-3,ncRNA"	range	1		1	"EVA_EXAC,"	2	"-,CTT,"	"103.000000,6139.000000,"	"0.016501,0.983499,"	
+585	chr1	17364	17365	rs369606208	0	+	C	C	C/G	genomic	single	"by-cluster,by-frequency"	0.380199	0.21342	"near-gene-3,ncRNA"	exact	1		2	"EVA_EXAC,SSMP,"	2	"C,G,"	"4394.000000,1506.000000,"	"0.744746,0.255254,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	17372	17373	rs750111615	0	+	A	A	A/G	genomic	single	by-frequency	0.081428	0.184617	"intron,ncRNA"	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"5877.000000,261.000000,"	"0.957478,0.042522,"	
+585	chr1	17374	17375	rs755771866	0	+	A	A	A/G	genomic	single	"by-cluster,by-frequency"	0.140037	0.224517	"intron,ncRNA"	exact	1		2	"EVA_EXAC,WEILL_CORNELL_DGM,"	2	"A,G,"	"5551.000000,455.000000,"	"0.924242,0.075758,"	
+585	chr1	17377	17378	rs779725194	0	+	C	C	C/T	genomic	single	by-frequency	0.00554	0.052339	"intron,ncRNA"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"6103.000000,17.000000,"	"0.997222,0.002778,"	
+585	chr1	17378	17379	rs754322362	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency"	0.024631	0.108207	"intron,ncRNA"	exact	1		2	"EVA_EXAC,WEILL_CORNELL_DGM,"	2	"A,G,"	"75.000000,5939.000000,"	"0.012471,0.987529,"	
+585	chr1	17384	17385	rs201535981	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency"	0.370334	0.219134	"intron,ncRNA"	exact	1		3	"CLINSEQ_SNP,EVA_EXAC,WEILL_CORNELL_DGM,"	2	"A,G,"	"1327.000000,4081.000000,"	"0.245377,0.754623,"	maf-5-some-pop
+585	chr1	17397	17398	rs200784459	0	+	C	C	A/C	genomic	single	"by-cluster,by-frequency"	0.03794	0.132403	"intron,ncRNA"	exact	1		3	"CLINSEQ_SNP,EVA_EXAC,GMI,"	2	"A,C,"	"105.000000,5323.000000,"	"0.019344,0.980656,"	maf-5-some-pop
+585	chr1	17401	17402	rs113363849	0	+	C	C	C/T	genomic	single	unknown	0	0	"intron,ncRNA"	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	17402	17403	rs111588939	0	+	A	A	A/G	genomic	single	"by-cluster,by-frequency"	0.01134	0.074442	"intron,ncRNA"	exact	1		3	"BCM-HGSC-SUB,EVA_EXAC,WEILL_CORNELL_DGM,"	2	"A,G,"	"5405.000000,31.000000,"	"0.994297,0.005703,"	
+585	chr1	17405	17406	rs772228657	0	+	C	C	C/T	genomic	single	by-frequency	0.05069	0.150916	"intron,ncRNA"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"5240.000000,140.000000,"	"0.973978,0.026022,"	
+585	chr1	17406	17407	rs372841554	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency"	0.141311	0.225137	"intron,ncRNA"	exact	1		3	"EVA_EXAC,SSMP,WEILL_CORNELL_DGM,"	2	"A,G,"	"398.000000,4804.000000,"	"0.076509,0.923491,"	
+585	chr1	17407	17408	rs747093451	0	+	C	C	C/G	genomic	single	"by-cluster,by-frequency"	0.068007	0.171401	"intron,ncRNA"	exact	1		2	"EVA_EXAC,WEILL_CORNELL_DGM,"	2	"C,G,"	"5146.000000,188.000000,"	"0.964754,0.035246,"	
+585	chr1	17451	17452	rs200503540	0	+	C	C	C/T	genomic	single	by-cluster	0.143053	0.22597	"intron,near-gene-5"	exact	1		5	"BILGI_BIOE,CLINSEQ_SNP,EVA_EXAC,SSMP,WEILL_CORNELL_DGM,"	2	"C,T,"	"11754.000000,988.000000,"	"0.922461,0.077539,"	
+585	chr1	17452	17453	rs776816361	0	+	G	G	A/G	genomic	single	by-frequency	0.002929	0.038157	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"21.000000,14297.000000,"	"0.001467,0.998533,"	
+585	chr1	17458	17459	rs762746261	0	+	T	T	C/T	genomic	single	unknown	0.000127	0.007953	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"1.000000,15803.000000,"	"0.000063,0.999937,"	
+585	chr1	17461	17462	rs572373948	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000121	0.007789	"intron,near-gene-5"	exact	1		2	"1000GENOMES,EVA_EXAC,"	2	"A,G,"	"2.000000,21482.000000,"	"0.000093,0.999907,"	
+585	chr1	17464	17465	rs774302377	0	+	G	G	G/T	genomic	single	unknown	0.000119	0.007703	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"G,T,"	"16849.000000,1.000000,"	"0.999941,0.000059,"	
+585	chr1	17467	17468	rs761605044	0	+	C	C	A/C	genomic	single	unknown	0.000115	0.007579	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"A,C,"	"1.000000,17403.000000,"	"0.000057,0.999943,"	
+585	chr1	17471	17472	rs767466913	0	+	G	G	A/G	genomic	single	by-frequency	0.000778	0.019711	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"A,G,"	"7.000000,17975.000000,"	"0.000389,0.999611,"	
+585	chr1	17472	17473	rs772636338	0	+	C	C	C/T	genomic	single	by-frequency	0.00011	0.007421	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"18153.000000,1.000000,"	"0.999945,0.000055,"	
+585	chr1	17476	17477	rs760228966	0	+	C	C	C/T	genomic	single	by-frequency	0.00021	0.010253	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"19014.000000,2.000000,"	"0.999895,0.000105,"	
+585	chr1	17477	17478	rs766005794	0	+	C	C	C/G/T	genomic	single	"by-cluster,by-frequency"	0.002619	0.036096	"intron,near-gene-5"	exact	1	SingleClassTriAllelic	2	"EVA_EXAC,WEILL_CORNELL_DGM,"	3	"C,G,T,"	"19041.000000,1.000000,24.000000,"	"0.998689,0.000052,0.001259,"	
+585	chr1	17478	17479	rs755400445	0	+	G	G	A/G	genomic	single	"by-cluster,by-frequency"	0.005022	0.049856	"intron,near-gene-5"	exact	1		2	"EVA_EXAC,WEILL_CORNELL_DGM,"	2	"A,G,"	"49.000000,19417.000000,"	"0.002517,0.997483,"	
+585	chr1	17482	17483	rs765660047	0	+	C	C	C/T	genomic	single	by-frequency	0.001704	0.029136	"intron,near-gene-5"	exact	1		1	"EVA_EXAC,"	2	"C,T,"	"19923.000000,17.000000,"	"0.999147,0.000853,"	
+585	chr1	17483	17484	rs753281850	0	+	G	G	A/G	genomic	single	by-frequency	0.005834	0.053695	"intron,near-gene-5"	exact	1		2	"EVA_EXAC,EVA_MGP,"	2	"A,G,"	"59.000000,20107.000000,"	"0.002926,0.997074,"	
+585	chr1	17518	17519	rs192890528	0	+	G	G	G/T	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		3	"EVA_MGP,MPI_MOLGEN,WEILL_CORNELL_DGM,"	0				
+585	chr1	17524	17525	rs201578576	0	+	C	C	A/C	genomic	single	unknown	0.003992	0.044498	"intron,near-gene-5"	exact	1	NonIntegerChromCount	1	"CLINSEQ_SNP,"	2	"A,C,"	"1.036000,516.963989,"	"0.002000,0.998000,"	
+585	chr1	17537	17538	rs200046632	0	+	C	C	A/C/T	genomic	single	"by-cluster,by-frequency"	0.36532	0.221814	"intron,near-gene-5"	exact	1	"SingleClassTriAllelic,NonIntegerChromCount,InconsistentAlleles"	6	"CLINSEQ_SNP,DDI,EVA_MGP,ILLUMINA,SSMP,WEILL_CORNELL_DGM,"	2	"A,C,"	"50.986000,161.014008,"	"0.240500,0.759500,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	17555	17556	rs374545136	0	+	C	C	C/T	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		3	"EVA_GENOME_DK,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	17558	17559	rs866150608	0	+	G	G	C/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17561	17562	rs867709223	0	+	C	C	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17568	17569	rs535086049	0	+	C	C	A/C	genomic	single	"by-frequency,by-1000genomes"	0.001596	0.028205	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,C,"	"4.000000,5004.000000,"	"0.000799,0.999201,"	
+585	chr1	17570	17571	rs557947346	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	17593	17594	rs377698370	0	+	C	C	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	17613	17614	rs201057270	0	+	G	G	A/G	genomic	single	by-cluster	0.007968	0.062614	"near-gene-5,ncRNA"	exact	1	NonIntegerChromCount	3	"CLINSEQ_SNP,SSMP,WEILL_CORNELL_DGM,"	2	"A,G,"	"1.024000,254.975998,"	"0.004000,0.996000,"	
+585	chr1	17640	17641	rs578081284	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-5,ncRNA"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	17652	17653	rs113193733	0	+	G	G	G/T	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"BCM-HGSC-SUB,"	0				
+585	chr1	17653	17654	rs544020171	0	+	T	T	C/T	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-5,ncRNA"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	17687	17688	rs865976671	0	+	C	C	C/T	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17693	17694	rs563880190	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.001197	0.024439	"near-gene-5,ncRNA"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5005.000000,3.000000,"	"0.999401,0.000599,"	
+585	chr1	17694	17695	rs574335987	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.001596	0.028205	"near-gene-5,ncRNA"	exact	1		2	"1000GENOMES,EVA_GENOME_DK,"	2	"A,G,"	"4.000000,5004.000000,"	"0.000799,0.999201,"	
+585	chr1	17696	17697	rs374995955	0	+	G	G	C/G	genomic	single	by-cluster	0	0	"near-gene-5,ncRNA"	exact	1		3	"EVA_GENOME_DK,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	17708	17709	rs543363182	0	+	T	T	G/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"near-gene-5,ncRNA"	exact	1		1	"1000GENOMES,"	2	"G,T,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	17721	17722	rs376731495	0	+	A	A	A/G	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"SSMP,"	0				
+585	chr1	17727	17728	rs868563840	0	+	G	G	G/T	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17745	17746	rs370884870	0	+	A	A	A/G	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	17747	17748	rs561632616	0	+	A	A	A/G	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	17764	17765	rs373918278	0	+	G	G	A/G	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	17766	17767	rs763779009	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	17780	17781	rs868266499	0	+	G	G	G/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17804	17805	rs367778176	0	+	T	T	C/T	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	17828	17829	rs751079828	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	17835	17836	rs527276258	0	+	G	G	G/T	genomic	single	by-1000genomes	0.000399	0.014124	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"G,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	17903	17904	rs761290640	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	17921	17922	rs541049871	0	+	G	G	C/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-5,ncRNA"	exact	1		1	"1000GENOMES,"	2	"C,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	17927	17928	rs867399458	0	+	T	T	A/T	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	17928	17929	rs767055815	0	+	C	C	A/C	genomic	single	by-cluster	0	0	"near-gene-5,ncRNA"	exact	1		2	"EVA_GENOME_DK,WEILL_CORNELL_DGM,"	0				
+585	chr1	18142	18143	rs750283945	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	18152	18153	rs756097423	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	18163	18164	rs62636370	0	+	T	T	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		2	"BCMHGSC_JDW,EVA_GENOME_DK,"	0				
+585	chr1	18199	18200	rs753724217	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	18453	18454	rs758687657	0	+	G	G	C/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	18642	18643	rs564023708	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.01112	0.07373	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"28.000000,4980.000000,"	"0.005591,0.994409,"	
+585	chr1	18745	18746	rs62028248	0	-	T	T	A/T	genomic	single	by-cluster	0.5	0	"intron,near-gene-5"	exact	1		2	"BCMHGSC_JDW,HUMANGENOME_JCVI,"	2	"A,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	18767	18768	rs11266868	0	+	C	C	C/T	genomic	single	by-frequency	0.5	0	"intron,near-gene-5"	exact	1		3	"BCMHGSC_JDW,ENSEMBL,SC_SNP,"	2	"C,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	18848	18849	rs533090414	0	+	C	C	C/G	genomic	single	"by-frequency,by-1000genomes"	0.091614	0.193427	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"C,G,"	"241.000000,4767.000000,"	"0.048123,0.951877,"	maf-5-some-pop
+585	chr1	18954	18955	rs62636373	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	19003	19004	rs62101625	0	+	A	A	A/G	genomic	single	by-cluster	0.5	0	"intron,near-gene-5"	exact	1		5	"BCM-HGSC-SUB,BCMHGSC_JDW,EVA_GENOME_DK,GMI,HUMANGENOME_JCVI,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	19171	19172	rs62031407	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	19225	19226	rs62636376	0	+	T	T	A/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		3	"BCMHGSC_JDW,BL,GMI,"	0				
+585	chr1	19390	19391	rs549526074	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.003986	0.044463	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"10.000000,4998.000000,"	"0.001997,0.998003,"	
+585	chr1	19582	19583	rs59644791	0	+	A	A	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"BCMHGSC_JDW,PADH-LAB_SPU,"	0				
+585	chr1	19599	19600	rs394478	0	+	A	A	A/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"SC_JCM,WI_SSAHASNP,"	0				
+585	chr1	19639	19640	rs7354872	0	+	G	G	G/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"SC_SNP,SSAHASNP,"	0				
+585	chr1	19673	19674	rs7364914	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WI_SSAHASNP,"	0				
+585	chr1	19775	19776	rs806719	0	-	A	A	C/T	genomic	single	by-cluster	0	0	intron	exact	1	SingleAlleleFreq	6	"ENSEMBL,KWOK,SC_JCM,SSAHASNP,TSC-CSHL,WI_SSAHASNP,"	1	"C,"	"4.000000,"	"1.000000,"	
+585	chr1	19788	19789	rs60837460	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"HGSV,WEILL_CORNELL_DGM,"	0				
+585	chr1	19857	19858	rs200796857	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"GMI,SSMP,"	0				
+585	chr1	19917	19918	rs867662833	0	+	G	G	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	19918	19919	rs866555019	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	19941	19942	rs374557549	0	+	G	G	C/G	genomic	single	by-cluster	0	0	intron	exact	1		3	"PADH-LAB_SPU,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	19951	19952	rs12354191	0	+	G	G	G/T	genomic	single	by-cluster	0	0	intron	exact	1		3	"SC_SNP,SSAHASNP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20036	20037	rs12354133	0	+	A	A	A/C	genomic	single	by-cluster	0	0	intron	exact	1		3	"SC_SNP,SSAHASNP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20112	20113	rs569520590	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	20128	20129	rs12354148	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		5	"GMI,SC_SNP,SSAHASNP,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20129	20130	rs7354882	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		4	"BCMHGSC_JDW,GMI,SC_SNP,SSAHASNP,"	0				
+585	chr1	20130	20131	rs529126051	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	intron	exact	1		1	"1000GENOMES,"	2	"A,G,"	"2.000000,5006.000000,"	"0.000399,0.999601,"	
+585	chr1	20135	20136	rs6689233	0	+	T	T	C/T	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		5	"BCM_SSAHASNP,GMI,HGSV,SSAHASNP,SSMP,"	0				
+585	chr1	20140	20141	rs12354060	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		4	"ILLUMINA,KRIBB_YJKIM,SC_SNP,SSAHASNP,"	0				
+585	chr1	20143	20144	rs143346096	0	+	G	G	A/G	genomic	single	by-cluster	0	0	intron	exact	1		4	"BL,DDI,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20158	20159	rs865862491	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	20165	20166	rs867829319	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	20183	20184	rs796202720	0	+	A	A	A/G	genomic	single	by-cluster	0	0	intron	exact	1		2	"PADH-LAB_SPU,WEILL_CORNELL_DGM,"	0				
+585	chr1	20190	20191	rs369546232	0	+	T	T	G/T	genomic	single	by-cluster	0	0	intron	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20205	20206	rs12239663	0	+	C	C	C/T	genomic	single	by-cluster	0	0	intron	exact	1		5	"GMI,HUMANGENOME_JCVI,SC_SNP,SSAHASNP,SSMP,"	0				
+585	chr1	20211	20212	rs867690215	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	20226	20227	rs868298772	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	20234	20235	rs7536588	0	+	G	G	A/G	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		3	"SSAHASNP,SSMP,WI_SSAHASNP,"	0				
+585	chr1	20244	20245	rs6682921	0	+	G	G	A/G	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		6	"BCM_SSAHASNP,GMI,HGSV,HUMANGENOME_JCVI,SSAHASNP,SSMP,"	0				
+585	chr1	20249	20250	rs373030326	0	+	T	T	C/T	genomic	single	by-cluster	0	0	intron	exact	1		3	"PADH-LAB_SPU,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20303	20304	rs6682950	0	+	G	G	C/G	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		8	"BCM_SSAHASNP,GMI,HGSV,HUMANGENOME_JCVI,SC_SNP,SSAHASNP,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20320	20321	rs6674403	0	+	A	A	A/C	genomic	single	"by-cluster,by-2hit-2allele"	0.5	0	intron	exact	1		6	"BCMHGSC_JDW,BCM_SSAHASNP,ENSEMBL,GMI,HGSV,SSAHASNP,"	2	"A,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	20466	20467	rs6661256	0	+	C	C	C/T	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		7	"BCM_SSAHASNP,EVA_GENOME_DK,GMI,HGSV,SSAHASNP,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20511	20512	rs6683179	0	+	G	G	G/T	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		7	"BCM_SSAHASNP,GMI,HGSV,SC_SNP,SSAHASNP,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	20546	20547	rs202246159	0	+	A	A	A/G	genomic	single	by-cluster	0	0	intron	exact	1		3	"EVA_GENOME_DK,GMI,SSMP,"	0				
+585	chr1	20594	20595	rs3950647	0	-	A	A	C/T	genomic	single	by-cluster	0.5	0	intron	exact	1		5	"HUMANGENOME_JCVI,PADH-LAB_SPU,SC_SNP,TSC-CSHL,WI_SSAHASNP,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	20599	20600	rs781363243	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	20619	20620	rs746313125	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	20627	20628	rs3871703	0	+	A	A	A/G	genomic	single	by-cluster	0.5	0	intron	exact	1		6	"BCM_SSAHASNP,HUMANGENOME_JCVI,PADH-LAB_SPU,SC_SNP,TSC-CSHL,WI_SSAHASNP,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	20728	20729	rs6661499	0	+	C	C	C/T	genomic	single	"by-cluster,by-2hit-2allele"	0.5	0	intron	exact	1		5	"BCM_SSAHASNP,ENSEMBL,EVA_GENOME_DK,SC_SNP,SSAHASNP,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	20812	20813	rs6674926	0	+	A	A	A/G	genomic	single	"by-cluster,by-2hit-2allele"	0.277778	0.248452	intron	exact	1		3	"BCM_SSAHASNP,ENSEMBL,SC_SNP,"	2	"A,G,"	"1.000000,5.000000,"	"0.166667,0.833333,"	
+585	chr1	20862	20862	rs767517206	0	+	-	-	-/G	genomic	insertion	unknown	0	0	intron	between	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	20913	20916	rs753450800	0	+	AGG	AGG	-/AGG	genomic	deletion	unknown	0	0	intron	range	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	20915	20916	rs7537223	0	+	G	G	A/G	genomic	single	by-2hit-2allele	0	0	intron	exact	1		1	"WI_SSAHASNP,"	0				
+585	chr1	20959	20960	rs6661790	0	+	C	C	A/C	genomic	single	"by-cluster,by-2hit-2allele"	0	0	intron	exact	1		3	"BCMHGSC_JDW,BCM_SSAHASNP,SC_SNP,"	0				
+585	chr1	21008	21009	rs62636382	0	+	T	T	G/T	genomic	single	unknown	0	0	intron	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	21023	21024	rs6600758	0	+	C	C	C/T	genomic	single	"by-cluster,by-2hit-2allele"	0.375	0.216506	intron	exact	1		4	"BCM_SSAHASNP,ENSEMBL,HUMANGENOME_JCVI,WI_SSAHASNP,"	2	"C,T,"	"1.000000,3.000000,"	"0.250000,0.750000,"	
+585	chr1	21092	21093	rs7517039	0	+	C	C	A/C	genomic	single	"by-cluster,by-2hit-2allele"	0.277778	0.248452	intron	exact	1		2	"ENSEMBL,WI_SSAHASNP,"	2	"A,C,"	"5.000000,1.000000,"	"0.833333,0.166667,"	
+585	chr1	21120	21121	rs6600759	0	+	G	G	A/G	genomic	single	"by-cluster,by-2hit-2allele"	0.21875	0.248039	intron	exact	1		4	"BCMHGSC_JDW,BCM_SSAHASNP,ENSEMBL,WI_SSAHASNP,"	2	"A,G,"	"7.000000,1.000000,"	"0.875000,0.125000,"	
+585	chr1	21281	21282	rs7519500	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"WI_SSAHASNP,"	0				
+585	chr1	21770	21775	rs747283974	0	+	CCCAC	CCCAC	-/CCCAC	genomic	deletion	unknown	0	0	intron	range	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	22374	22375	rs775804639	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	23358	23359	rs200501833	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"GMI,"	0				
+585	chr1	23880	23881	rs62636384	0	+	C	C	A/C	genomic	single	"by-cluster,by-frequency"	0.489796	0.070696	intron	exact	1		4	"BCM-HGSC-SUB,BCMHGSC_JDW,ENSEMBL,HUMANGENOME_JCVI,"	2	"A,C,"	"6.000000,8.000000,"	"0.428571,0.571429,"	
+585	chr1	24785	24786	rs11266852	0	+	G	G	A/G	genomic	single	unknown	0	0	ncRNA	exact	1	SingleAlleleFreq	4	"BCMHGSC_JDW,CGAP-GAI,ENSEMBL,SC_SNP,"	1	"A,"	"2.000000,"	"1.000000,"	
+585	chr1	24831	24832	rs452623	0	-	A	A	C/T	genomic	single	"by-cluster,by-frequency"	0.5	0	ncRNA	exact	1		4	"BCMHGSC_JDW,CGAP-GAI,HUMANGENOME_JCVI,SC_JCM,"	2	"C,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	24923	24924	rs763377378	0	+	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	25312	25313	rs11490230	0	+	A	A	A/G	genomic	single	unknown	0	0	intron	exact	1	SingleAlleleFreq	3	"BCMHGSC_JDW,ENSEMBL,SC_SNP,"	1	"G,"	"2.000000,"	"1.000000,"	
+585	chr1	25773	25774	rs543231	0	-	G	G	C/T	genomic	single	unknown	0	0	intron	exact	1		4	"BCMHGSC_JDW,SC_JCM,SC_SNP,TSC-CSHL,"	0				
+585	chr1	26613	26614	rs201254879	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"GMI,"	0				
+585	chr1	26998	26999	rs376349	0	-	A	A	C/T	genomic	single	by-cluster	0	0	intron	exact	1		7	"BCM-HGSC-SUB,BCMHGSC_JDW,BL,GMI,SC_JCM,SC_SNP,TSC-CSHL,"	0				
+585	chr1	27557	27558	rs2418712	0	-	C	C	C/G	genomic	single	unknown	0	0	intron	exact	1		5	"BCMHGSC_JDW,SC_JCM,SC_SNP,TSC-CSHL,WI_SSAHASNP,"	0				
+585	chr1	27968	27969	rs432579	0	-	C	C	A/G	genomic	single	by-cluster	0.5	0	intron	exact	1		5	"BCMHGSC_JDW,HUMANGENOME_JCVI,SC_JCM,SC_SNP,TSC-CSHL,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	28197	28198	rs370721856	0	+	A	A	A/T	genomic	single	unknown	0	0	intron	exact	1		1	"SSMP,"	0				
+585	chr1	28246	28247	rs374830599	0	+	G	G	A/G	genomic	single	unknown	0	0	intron	exact	1		1	"SSMP,"	0				
+585	chr1	28250	28251	rs375858938	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"SSMP,"	0				
+585	chr1	28253	28254	rs867534655	0	+	T	T	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	28326	28327	rs376400995	0	+	T	T	-/T	genomic	deletion	by-cluster	0	0	intron	exact	1		2	"SSIP,SSMP,"	0				
+585	chr1	28353	28354	rs370160374	0	+	C	C	C/T	genomic	single	unknown	0	0	intron	exact	1		1	"SSMP,"	0				
+585	chr1	28375	28376	rs373867716	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	28405	28406	rs868260348	0	+	T	T	G/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	28419	28420	rs367674871	0	+	A	A	A/T	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"DDI,SSMP,"	0				
+585	chr1	28493	28494	rs768288163	0	+	T	T	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	28510	28511	rs773821537	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	28557	28558	rs371996741	0	+	C	C	C/T	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"BILGI_BIOE,SSMP,"	0				
+585	chr1	28562	28563	rs4099234	0	+	A	A	A/G	genomic	single	by-cluster	0.375	0.216506	"intron,near-gene-5"	exact	1		9	"BCM-HGSC-SUB,BCMHGSC_JDW,BILGI_BIOE,DDI,ENSEMBL,EVA_GENOME_DK,GMI,SSMP,TSC-CSHL,"	2	"A,G,"	"1.000000,3.000000,"	"0.250000,0.750000,"	
+585	chr1	28587	28588	rs370050982	0	+	G	G	G/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"BILGI_BIOE,"	0				
+585	chr1	28588	28588	rs760679436	0	+	-	-	-/TTTGGT	genomic	insertion	unknown	0	0	"intron,near-gene-5"	between	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	28589	28589	rs765092252	0	+	-	-	-/TTGG	genomic	insertion	unknown	0	0	"intron,near-gene-5"	between	1		1	"SSMP,"	0				
+585	chr1	28590	28591	rs373541503	0	+	T	T	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1	MixedObserved	1	"BILGI_BIOE,"	0				
+585	chr1	28590	28590	rs757557694	0	+	-	-	-/TGG	genomic	insertion	by-cluster	0	0	"intron,near-gene-5"	between	1	MixedObserved	3	"EVA_GENOME_DK,EVA_UK10K_ALSPAC,EVA_UK10K_TWINSUK,"	0				
+585	chr1	28591	28592	rs74045002	0	+	T	T	G/T	genomic	single	by-cluster	0.5	0	"intron,near-gene-5"	exact	1		4	"BILGI_BIOE,GMI,ILLUMINA-UK,WEILL_CORNELL_DGM,"	2	"G,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	28592	28593	rs74047003	0	+	T	T	G/T	genomic	single	by-cluster	0.5	0	"intron,near-gene-5"	exact	1		3	"BILGI_BIOE,GMI,ILLUMINA-UK,"	2	"G,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	28662	28663	rs368559131	0	+	T	T	A/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	28750	28751	rs766884793	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	28834	28835	rs371891814	0	+	A	A	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	28862	28863	rs376859287	0	+	C	C	A/C	genomic	single	by-cluster	0	0	"intron,near-gene-5"	exact	1		2	"EVA_GENOME_DK,SSMP,"	0				
+585	chr1	28874	28875	rs369023194	0	+	G	G	A/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	28913	28914	rs548884287	0	+	G	G	A/G	genomic	single	"by-frequency,by-1000genomes"	0.003986	0.044463	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"10.000000,4998.000000,"	"0.001997,0.998003,"	
+585	chr1	28958	28959	rs17040995	0	+	A	A	A/C	genomic	single	by-cluster	0.5	0	"intron,near-gene-5"	exact	1		4	"BCMHGSC_JDW,HUMANGENOME_JCVI,SEQUENOM,SSMP,"	2	"A,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	29255	29256	rs760656790	0	+	G	G	C/G	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	29264	29265	rs766488526	0	+	T	T	C/T	genomic	single	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	29278	29279	rs780660371	0	+	C	C	-/C	genomic	deletion	unknown	0	0	"intron,near-gene-5"	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	29317	29318	rs566001124	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	"intron,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	29367	29368	rs796745295	0	+	G	G	A/G	genomic	single	unknown	0	0	"near-gene-5,ncRNA"	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	29435	29436	rs2462493	0	+	G	G	A/G	genomic	single	unknown	0	0	near-gene-5	exact	1	SingleAlleleFreq	1	"SC_JCM,"	1	"G,"	"2.000000,"	"1.000000,"	
+585	chr1	29632	29633	rs62101631	0	+	T	T	C/T	genomic	single	by-cluster	0.5	0	near-gene-5	exact	1		2	"BCMHGSC_JDW,HUMANGENOME_JCVI,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	29690	29691	rs796971035	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	29719	29720	rs11490932	0	+	C	C	C/T	genomic	single	by-cluster	0.5	0	near-gene-5	exact	1		3	"BCMHGSC_JDW,HUMANGENOME_JCVI,SC_SNP,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	29756	29757	rs11794875	0	+	C	C	C/G	genomic	single	"by-cluster,by-hapmap"	0.5	0	near-gene-5	exact	1		5	"BCMHGSC_JDW,CSHL-HAPMAP,HUMANGENOME_JCVI,SC_SNP,SSAHASNP,"	2	"C,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	30523	30524	rs534702355	0	+	G	G	A/G	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,G,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	30527	30528	rs867282737	0	+	C	C	C/T	genomic	single	unknown	0	0	"near-gene-3,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	30547	30548	rs62028215	0	-	T	T	A/C	genomic	single	by-cluster	0.5	0	"near-gene-3,near-gene-5"	exact	1		7	"BCM-HGSC-SUB,BCMHGSC_JDW,ENSEMBL,EVA_EXAC,PADH-LAB_SPU,SSMP,WEILL_CORNELL_DGM,"	2	"A,C,"	"1.000000,1.000000,"	"0.500000,0.500000,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	30550	30551	rs778316262	0	+	C	C	C/T	genomic	single	by-cluster	0.005333	0.051363	"near-gene-3,near-gene-5"	exact	1		2	"EVA_EXAC,WEILL_CORNELL_DGM,"	2	"C,T,"	"373.000000,1.000000,"	"0.997326,0.002674,"	
+585	chr1	30648	30649	rs28688489	0	+	T	T	G/T	genomic	single	"by-cluster,by-frequency"	0.5	0	"near-gene-3,near-gene-5"	exact	1		3	"ENSEMBL,HUMANGENOME_JCVI,SSAHASNP,"	2	"G,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	30671	30672	rs28628742	0	+	A	A	A/G	genomic	single	by-cluster	0.5	0	"near-gene-3,near-gene-5"	exact	1		3	"ENSEMBL,SSAHASNP,SSMP,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	30727	30728	rs28594168	0	+	G	G	G/T	genomic	single	by-cluster	0	0	"near-gene-3,near-gene-5"	exact	1		2	"SSAHASNP,SSMP,"	0				
+585	chr1	30740	30741	rs558169846	0	+	C	C	A/C	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"A,C,"	"1.000000,5007.000000,"	"0.000200,0.999800,"	
+585	chr1	30780	30781	rs28503485	0	+	G	G	C/G	genomic	single	by-cluster	0	0	"near-gene-3,near-gene-5"	exact	1		2	"SSAHASNP,SSMP,"	0				
+585	chr1	30808	30809	rs867555950	0	+	T	T	C/T	genomic	single	unknown	0	0	"near-gene-3,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	30859	30860	rs28673882	0	+	G	G	C/G	genomic	single	"by-cluster,by-frequency"	0.46875	0.121031	"near-gene-3,near-gene-5"	exact	1		3	"ENSEMBL,SSAHASNP,WEILL_CORNELL_DGM,"	2	"C,G,"	"3.000000,5.000000,"	"0.375000,0.625000,"	
+585	chr1	30867	30871	rs369270395	0	+	CTCT	CTCT	-/CTCT	genomic	deletion	by-cluster	0	0	"near-gene-3,near-gene-5"	range	1		2	"SSIP,SSMP,"	0				
+585	chr1	30884	30885	rs866578240	0	+	T	T	C/T	genomic	single	unknown	0	0	"near-gene-3,near-gene-5"	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	30911	30912	rs571608907	0	+	C	C	C/T	genomic	single	by-1000genomes	0.000399	0.014124	"near-gene-3,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5007.000000,1.000000,"	"0.999800,0.000200,"	
+585	chr1	30922	30923	rs806731	0	-	G	G	A/C	genomic	single	"by-cluster,by-frequency,by-1000genomes"	0.22263	0.248497	"near-gene-3,near-gene-5"	exact	1		9	"1000GENOMES,DDI,ENSEMBL,EVA-GONL,GMI,KWOK,SC_JCM,SSAHASNP,WEILL_CORNELL_DGM,"	2	"A,C,"	"4369.000000,639.000000,"	"0.872404,0.127596,"	maf-5-some-pop
+585	chr1	30992	30993	rs369816853	0	+	G	G	C/G	genomic	single	unknown	0	0	"near-gene-3,near-gene-5"	exact	1		1	"SSMP,"	0				
+585	chr1	30997	30998	rs557560597	0	+	C	C	C/T	genomic	single	"by-frequency,by-1000genomes"	0.000798	0.019964	"near-gene-3,near-gene-5"	exact	1		1	"1000GENOMES,"	2	"C,T,"	"5006.000000,2.000000,"	"0.999601,0.000399,"	
+585	chr1	31028	31029	rs372996257	0	+	G	G	A/G	genomic	single	by-cluster	0	0	near-gene-5	exact	1		3	"DDI,SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	31108	31109	rs866884024	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	31159	31160	rs868401301	0	+	C	C	C/T	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	31165	31166	rs376216589	0	+	C	C	C/T	genomic	single	by-cluster	0	0	near-gene-5	exact	1		2	"SSMP,WEILL_CORNELL_DGM,"	0				
+585	chr1	31294	31295	rs867951357	0	+	A	A	A/C	genomic	single	unknown	0	0	near-gene-5	exact	1		1	"WEILL_CORNELL_DGM,"	0				
+585	chr1	31385	31386	rs2418683	0	-	G	G	C/T	genomic	single	"by-cluster,by-frequency"	0.5	0	unknown	exact	1		7	"BCMHGSC_JDW,ENSEMBL,HUMANGENOME_JCVI,SC_JCM,TSC-CSHL,WEILL_CORNELL_DGM,WI_SSAHASNP,"	2	"C,T,"	"6.000000,6.000000,"	"0.500000,0.500000,"	
+585	chr1	31487	31488	rs753672820	0	+	C	C	C/T	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	31488	31489	rs754761770	0	+	G	G	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	31538	31539	rs778774279	0	+	G	G	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	32902	32903	rs4951938	0	+	T	T	C/T	genomic	single	unknown	0.5	0	unknown	exact	1		3	"BCMHGSC_JDW,ENSEMBL,WI_SSAHASNP,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	33149	33150	rs2548907	0	+	A	A	A/T	genomic	single	"by-cluster,by-frequency"	0.5	0	unknown	exact	1		5	"BCMHGSC_JDW,ENSEMBL,HUMANGENOME_JCVI,SC_JCM,TSC-CSHL,"	2	"A,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	33486	33487	rs77459554	0	+	C	C	C/T	genomic	single	unknown	0.5	0	unknown	exact	1		1	"ENSEMBL,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	33494	33495	rs75468675	0	+	C	C	C/T	genomic	single	by-frequency	0.5	0	unknown	exact	1		1	"ENSEMBL,"	2	"C,T,"	"6.000000,6.000000,"	"0.500000,0.500000,"	
+585	chr1	33504	33505	rs75627161	0	+	T	T	C/T	genomic	single	by-frequency	0.5	0	unknown	exact	1		1	"ENSEMBL,"	2	"C,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	33507	33508	rs75609629	0	+	A	A	A/T	genomic	single	by-frequency	0.5	0	unknown	exact	1		1	"ENSEMBL,"	2	"A,T,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	33520	33521	rs76098219	0	+	T	T	A/T	genomic	single	by-frequency	0.5	0	unknown	exact	1		1	"ENSEMBL,"	2	"A,T,"	"8.000000,8.000000,"	"0.500000,0.500000,"	
+585	chr1	33592	33593	rs557585	0	+	G	G	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"SC_JCM,"	0				
+585	chr1	33723	33724	rs11490227	0	+	T	T	C/T	genomic	single	unknown	0	0	unknown	exact	1		2	"SC_SNP,SSAHASNP,"	0				
+585	chr1	33733	33734	rs2441624	0	+	T	T	C/T	genomic	single	by-cluster	0	0	unknown	exact	1		2	"SC_JCM,WUGSC_SSAHASNP,"	0				
+585	chr1	33906	33907	rs7340025	0	+	C	C	C/T	genomic	single	by-cluster	0.375	0.216506	unknown	exact	1		3	"ENSEMBL,SC_SNP,SSAHASNP,"	2	"C,T,"	"1.000000,3.000000,"	"0.250000,0.750000,"	
+585	chr1	33927	33928	rs7339902	0	+	G	G	A/G	genomic	single	by-cluster	0	0	unknown	exact	1		2	"SC_SNP,SSAHASNP,"	0				
+585	chr1	33970	33971	rs7340026	0	+	C	C	C/G	genomic	single	by-cluster	0.375	0.216506	unknown	exact	1		4	"BCM-HGSC-SUB,ENSEMBL,SC_SNP,SSAHASNP,"	2	"C,G,"	"1.000000,3.000000,"	"0.250000,0.750000,"	
+585	chr1	33986	33987	rs4951871	0	+	A	A	A/G	genomic	single	by-cluster	0	0	unknown	exact	1		3	"SC_SNP,SSAHASNP,WI_SSAHASNP,"	0				
+585	chr1	34770	34771	rs16994639	0	+	G	G	C/G	genomic	single	by-cluster	0.5	0	ncRNA	exact	1		4	"BCM-HGSC-SUB,BCMHGSC_JDW,HUMANGENOME_JCVI,SEQUENOM,"	2	"C,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	"maf-5-some-pop,maf-5-all-pops"
+585	chr1	34809	34810	rs11266862	0	+	A	A	A/T	genomic	single	unknown	0	0	ncRNA	exact	1		2	"BCMHGSC_JDW,SC_SNP,"	0				
+585	chr1	35081	35082	rs3871734	0	+	G	G	A/G	genomic	single	by-cluster	0.5	0	ncRNA	exact	1		6	"BCMHGSC_JDW,HUMANGENOME_JCVI,SC_JCM,SC_SNP,TSC-CSHL,WI_SSAHASNP,"	2	"A,G,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	37054	37055	rs560450	0	-	C	C	A/G	genomic	single	"by-cluster,by-frequency"	0.5	0	near-gene-5	exact	1		4	"BCMHGSC_JDW,ENSEMBL,HUMANGENOME_JCVI,SC_JCM,"	2	"A,G,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	37364	37365	rs3871752	0	+	T	T	C/T	genomic	single	unknown	0.375	0.216506	near-gene-5	exact	1		5	"BCMHGSC_JDW,ENSEMBL,SC_JCM,SC_SNP,TSC-CSHL,"	2	"C,T,"	"3.000000,1.000000,"	"0.750000,0.250000,"	
+585	chr1	38734	38735	rs751691900	0	+	G	G	G/T	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	38741	38742	rs437145	0	-	C	C	A/G/T	genomic	single	"by-cluster,by-frequency,by-submitter"	0.5	0	unknown	exact	1	"SingleClassTriAllelic,InconsistentAlleles"	5	"BCMHGSC_JDW,EVA_GENOME_DK,HUMANGENOME_JCVI,SC_JCM,TSC-CSHL,"	2	"A,G,"	"2.000000,2.000000,"	"0.500000,0.500000,"	
+585	chr1	39179	39180	rs806725	0	-	A	A	C/T	genomic	single	unknown	0.5	0	unknown	exact	1		4	"BCMHGSC_JDW,ENSEMBL,KWOK,SC_JCM,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	39229	39230	rs62637791	0	+	G	G	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	39246	39247	rs62637792	0	+	A	A	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	39254	39255	rs62637793	0	+	A	A	A/C	genomic	single	unknown	0	0	unknown	exact	1		2	"BCMHGSC_JDW,GMI,"	0				
+585	chr1	39255	39256	rs781111541	0	+	A	A	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	39260	39261	rs200677948	0	+	T	T	C/T	genomic	single	unknown	0	0	unknown	exact	1		2	"EVA_GENOME_DK,GMI,"	0				
+585	chr1	39405	39406	rs796149833	0	+	G	G	C/G	genomic	single	unknown	0	0	unknown	exact	1		1	"PADH-LAB_SPU,"	0				
+585	chr1	39422	39423	rs770283901	0	+	T	T	C/T	genomic	single	by-cluster	0	0	unknown	exact	1		2	"EVA_GENOME_DK,PADH-LAB_SPU,"	0				
+585	chr1	39429	39430	rs780599633	0	+	A	A	A/C	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	39630	39631	rs62637795	0	+	T	T	C/T	genomic	single	unknown	0	0	unknown	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	39675	39676	rs62637796	0	+	C	C	C/T	genomic	single	unknown	0	0	unknown	exact	1		1	"BCMHGSC_JDW,"	0				
+585	chr1	39860	39861	rs749812458	0	+	G	G	A/G	genomic	single	unknown	0	0	unknown	exact	1		1	"EVA_GENOME_DK,"	0				
+585	chr1	39891	39892	rs62101640	0	+	C	C	C/T	genomic	single	unknown	0.5	0	unknown	exact	1		2	"BCMHGSC_JDW,ENSEMBL,"	2	"C,T,"	"1.000000,1.000000,"	"0.500000,0.500000,"	
+585	chr1	40260	40261	rs3878906	0	+	C	C	A/C	genomic	single	unknown	0	0	unknown	exact	1		3	"BCMHGSC_JDW,SC_JCM,TSC-CSHL,"	0				
+585	chr1	40306	40307	rs11490536	0	+	A	A	A/G	genomic	single	unknown	0	0	unknown	exact	1		2	"BCMHGSC_JDW,SC_SNP,"	0				
+585	chr1	40388	40389	rs370571606	0	+	C	C	C/T	genomic	single	unknown	0	0	unknown	exact	1		1	"SSMP,"	0				
+585	chr1	40893	40893	rs758792842	0	+	-	-	-/A	genomic	insertion	unknown	0	0	unknown	between	1		1	"SSMP,"	0				
